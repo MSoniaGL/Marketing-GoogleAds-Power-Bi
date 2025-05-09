@@ -1,2 +1,0 @@
-# Portfolio-Power-Bi
-Prueba
